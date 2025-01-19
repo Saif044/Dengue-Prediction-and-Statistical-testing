@@ -1,5 +1,3 @@
-# Dengue-Prediction-and-Statistical-testing
-
 # Dengue Data Analysis and Prediction
 
 This project focuses on analyzing dengue dataset trends and evaluating machine learning models for prediction. Key features include:
